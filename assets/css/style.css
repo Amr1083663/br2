@@ -578,6 +578,7 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    
   }
 
   #hero h2 {
@@ -2091,6 +2092,7 @@ mix-blend-mode: multiply;
   .tab-content span{
     font-weight: 600;
     color: rgb(20, 28, 37);
+    font-size : medium ;
   }
 
 
